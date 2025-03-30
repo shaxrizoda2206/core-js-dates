@@ -257,8 +257,9 @@
     "typescript": "^5.8.2"
   },
   "scripts": {
-    "test": "mocha"
-  },
+  "test": "mocha",
+  "test:ts": "ts-jest"
+},
   "keywords": [],
   "author": "",
   "license": "ISC"
